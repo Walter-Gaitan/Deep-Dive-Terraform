@@ -15,7 +15,6 @@ terraform apply "m3.tfplan"
 
 # Now Jimmy ruins things
 
-# Linux and MacOS: Run the junior_admin.sh script
 ./junior_admin.sh
 
 # Windows: Install the AWS PowerShell module
